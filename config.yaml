@@ -1,0 +1,8 @@
+path: /TallerYolov8/data #ruta de la carpeta data
+train: images/train #ruta de las imagenes
+val: images/train #ruta de los valores de las imagenes
+
+# Clases
+names:
+  0: #nombre del objeto
+

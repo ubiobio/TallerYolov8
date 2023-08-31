@@ -1,6 +1,7 @@
 images/
 !images/train/.gitkeep
 !images/labels/.gitkeep
+model/
 !model/.gitkeep
 
 # Created by https://www.toptal.com/developers/gitignore/api/python

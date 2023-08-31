@@ -4,8 +4,7 @@ import cv2
 def main():
     model = YOLO('model/')
 
-    video_path = './'
-    cap = cv2.VideoCapture(video_path)
+    cap = cv2.VideoCapture(0)
 
     ret = True
     while ret:
@@ -13,8 +12,9 @@ def main():
         if not ret:
             print("Error: failed to capture image")
             break
-
-        results = model.track(frame, persist=True)
+        
+        #results = model.track(soure="", show=True, tracker='custom_tracker.yaml')
+        #results = model.track(frame, persist=True)
 
         frame_ = results[0].plot()
 

@@ -10,6 +10,8 @@ _Taller orientado al entrenamiento de un modelo de detección de objetos con YOL
 
 - [Python v3.11](https://www.python.org/) - Lenguaje de programación
 
+### Instalación
+
 - Se clona el repositorio de GitHub
   ```bash
   git clone https://github.com/ubiobio/TallerYolov8.git detector-script
@@ -33,7 +35,7 @@ _Taller orientado al entrenamiento de un modelo de detección de objetos con YOL
 - Se instala los requerimientos del proyecto
 
   ```bash
-  pip install -r ultralytics
+  pip install -r requirements.txt
   ```
 
 - En la carpeta _data_ ingresa las imagenes y su respectivo archivo .txt para el entrenamiento.

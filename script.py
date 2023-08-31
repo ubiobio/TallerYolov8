@@ -14,7 +14,7 @@ def main():
             break
         
         #results = model.track(soure="", show=True, tracker='custom_tracker.yaml')
-        #results = model.track(frame, persist=True)
+        results = model.track(frame, persist=True)
 
         frame_ = results[0].plot()
 

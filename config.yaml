@@ -1,4 +1,4 @@
-path: C:\Users\vicen\OneDrive\Escritorio\Semen\TallerYolov8\data #ruta de la carpeta data
+path: #ruta de la carpeta data
 train: images/train #ruta de las imagenes
 val: images/train #ruta de los valores de las imagenes
 

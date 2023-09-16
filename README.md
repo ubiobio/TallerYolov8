@@ -7,7 +7,7 @@ _Taller orientado al entrenamiento de un modelo de detección de objetos con YOL
   <ul>
     <li><a href="https://universe.roboflow.com/mbconv/mb-detection/dataset/1">Motos</a></li>
     <li><a href="https://universe.roboflow.com/objek-dalam-ayunda/kacamata-model/dataset/2">Lentes</li>
-    <li><a href="https://universe.roboflow.com/objek-dalam-ayunda/kacamata-model/dataset/2">Patentes</a></li>
+    <li><a href="https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4">Patentes</a></li>
     <li><a href="https://universe.roboflow.com/nn-vfff7/pens-xbrvj/dataset/1">Lapiz</a></li>
     <li><a href="https://universe.roboflow.com/dpow/laptopmodel/dataset/1">Laptop</a></li>
     <li><a href="https://universe.roboflow.com/fiap-fumtz/bike-model-object-detection/dataset/1">Bicicletas</a>
